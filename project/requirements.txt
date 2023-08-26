@@ -1,0 +1,8 @@
+#pip installable libraries
+import pyqrcode
+import os
+import validators #to validate url
+from PIL import Image
+import qrcode
+import cv2
+from urllib.parse import urlparse
